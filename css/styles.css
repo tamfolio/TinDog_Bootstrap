@@ -77,3 +77,11 @@ p{
 .feature-icon:hover{
     color: #ff4c68;
 }
+
+/* testimonials */
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
