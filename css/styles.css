@@ -113,3 +113,40 @@ p{
 .carousel-item{
     padding: 7% 15%;
 }
+
+/* pricing section */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3%;
+}
+
+/* call to action */
+#cta{
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#cta h3{
+    color: white;
+    margin-bottom: 1rem;
+    font-size: 3rem;
+}
+
+#footer{
+    padding: 100px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.social-media{
+    text-align: center;
+}
+
+.social-icon{
+    margin-left: 20px;
+}
